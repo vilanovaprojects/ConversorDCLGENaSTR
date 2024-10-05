@@ -1,0 +1,14 @@
+M:\desarrollo\zBerrituA\Moisesc\ConversorDCLGENaSTR\ConversorDCLGENaSTR\ConversorDCLGENaSTR\bin\Debug\net8.0\ConversorDCLGENaSTR.exe
+M:\desarrollo\zBerrituA\Moisesc\ConversorDCLGENaSTR\ConversorDCLGENaSTR\ConversorDCLGENaSTR\bin\Debug\net8.0\ConversorDCLGENaSTR.deps.json
+M:\desarrollo\zBerrituA\Moisesc\ConversorDCLGENaSTR\ConversorDCLGENaSTR\ConversorDCLGENaSTR\bin\Debug\net8.0\ConversorDCLGENaSTR.runtimeconfig.json
+M:\desarrollo\zBerrituA\Moisesc\ConversorDCLGENaSTR\ConversorDCLGENaSTR\ConversorDCLGENaSTR\bin\Debug\net8.0\ConversorDCLGENaSTR.dll
+M:\desarrollo\zBerrituA\Moisesc\ConversorDCLGENaSTR\ConversorDCLGENaSTR\ConversorDCLGENaSTR\bin\Debug\net8.0\ConversorDCLGENaSTR.pdb
+M:\desarrollo\zBerrituA\Moisesc\ConversorDCLGENaSTR\ConversorDCLGENaSTR\ConversorDCLGENaSTR\obj\Debug\net8.0\ConversorDCLGENaSTR.GeneratedMSBuildEditorConfig.editorconfig
+M:\desarrollo\zBerrituA\Moisesc\ConversorDCLGENaSTR\ConversorDCLGENaSTR\ConversorDCLGENaSTR\obj\Debug\net8.0\ConversorDCLGENaSTR.AssemblyInfoInputs.cache
+M:\desarrollo\zBerrituA\Moisesc\ConversorDCLGENaSTR\ConversorDCLGENaSTR\ConversorDCLGENaSTR\obj\Debug\net8.0\ConversorDCLGENaSTR.AssemblyInfo.cs
+M:\desarrollo\zBerrituA\Moisesc\ConversorDCLGENaSTR\ConversorDCLGENaSTR\ConversorDCLGENaSTR\obj\Debug\net8.0\ConversorDCLGENaSTR.csproj.CoreCompileInputs.cache
+M:\desarrollo\zBerrituA\Moisesc\ConversorDCLGENaSTR\ConversorDCLGENaSTR\ConversorDCLGENaSTR\obj\Debug\net8.0\ConversorDCLGENaSTR.dll
+M:\desarrollo\zBerrituA\Moisesc\ConversorDCLGENaSTR\ConversorDCLGENaSTR\ConversorDCLGENaSTR\obj\Debug\net8.0\refint\ConversorDCLGENaSTR.dll
+M:\desarrollo\zBerrituA\Moisesc\ConversorDCLGENaSTR\ConversorDCLGENaSTR\ConversorDCLGENaSTR\obj\Debug\net8.0\ConversorDCLGENaSTR.pdb
+M:\desarrollo\zBerrituA\Moisesc\ConversorDCLGENaSTR\ConversorDCLGENaSTR\ConversorDCLGENaSTR\obj\Debug\net8.0\ConversorDCLGENaSTR.genruntimeconfig.cache
+M:\desarrollo\zBerrituA\Moisesc\ConversorDCLGENaSTR\ConversorDCLGENaSTR\ConversorDCLGENaSTR\obj\Debug\net8.0\ref\ConversorDCLGENaSTR.dll
